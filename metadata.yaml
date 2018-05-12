@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3383
     wikipedia: http://en.wikipedia.org/wiki/George_Wilbur_Peck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25492#How-Private-George-W.-Peck-Put-Down-The-Rebellionor-The-Funny-Experiences-of-a-Raw-Recruit---_
 gutenberg_bookshelf:
 - Children's Book Series
 - US Civil War
